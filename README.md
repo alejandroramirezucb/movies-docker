@@ -66,6 +66,6 @@ sudo apt install postgresql
 
 ---
 
-## Resultados EXPLAIN ANALYZE
+## Resultados
 
-📊 [**Ver Comparación Before/After**](./schema_design/explain_analyze_results.md)
+📊 [**Ver resultados**](./schema_design/explain_results.md)
